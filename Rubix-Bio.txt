@@ -1,0 +1,53 @@
+
+
+If we have not me in person, which is likley these days
+
+I'm Adam Fakes
+
+I joined RUBIX last year, it was actually on April fools day, for 
+me and my sense of humour, it seemed about right
+
+A super quick run down of me
+- I have been in the IT for around 25 years.
+- I have a Degree is Science (Computer Science and Environmental Science) 
+
+- I worked for small, medium and large companies, namely  IBM,  MYOB, and TAB 
+  seems like I like acronyms - 
+
+- the most amazing places I have worked were also acronyms: CSIRO & JCU
+  Commonwealth Scientifc and Industrial Research Organisation
+  James Cook University
+
+ With both CSIRO and JCU I worked as a Climate Change Researcher
+ I basically got paid to go fishing and camping.
+
+ The most amazing project I worked on, over 5 years, was GRACE a Gravity satellite system 
+ that measures the Earth's gravity. From this we could measure the GroundWater 
+ of the planet, without digging.
+ 
+ Overrall I worked as Climate Science Researcher for 8 years.
+
+I have worked on a everything from sensors, hardware connectivity, software & 
+data engineering, physical and virtual infrastructure, Software Design, development, and testing.
+The only thing I don't do is UI design. Green on Black, Courier 10 pt is fine
+
+I have been working AWS (Amazon Web Services) for over 6 years, building things like
+ API gateways, Lambda Functions, EC2's, kinesis streams etc. Most via software as code 
+ whether its CloudFormation, SDK's or the command line.
+ 
+I really like JavaScript, well it's proper name these days ECMA Script 6.
+The years in Science I got to know GIS, Geographic Information Systems very well. 
+I spent a far amount of my time doing Time Series and GeoSpatial statistics & modelling.
+
+I have built a number of Neural Network models, some predicting Climate Change effects on forest structure
+and others to predict the population of fish in rivers
+
+
+Otherwise what else do I do, who am I
+I have a 20 year daughter, I am proud to say is getting HD's 
+in mathematics engineering and non-fiction writing.
+
+In the past I ran marathons, but now happy to ride, I usually do 50KM rides on the weekends
+
+I also like taking photos, mainly of landscapes.
+
